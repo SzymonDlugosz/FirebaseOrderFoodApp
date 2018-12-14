@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "219826132275",
+    "firebase_url": "https://stoked-magpie-194621.firebaseio.com",
+    "project_id": "stoked-magpie-194621",
+    "storage_bucket": "stoked-magpie-194621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219826132275:android:09eca3ef2f739e38",
+        "android_client_info": {
+          "package_name": "com.example.student.foodproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219826132275-8cbmagqneq85qumkl3djumrreb0fb7f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student.foodproject",
+            "certificate_hash": "fa5a4b33c2757bbfc7c813717c78ab27653cc55a"
+          }
+        },
+        {
+          "client_id": "219826132275-2h4nf8r91v7frc16c140juj8r7n0qlvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_MaCh92MjFEH8FjCZDWtgypojEbyYQZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219826132275-2h4nf8r91v7frc16c140juj8r7n0qlvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219826132275:android:0f8952c537d063ef",
+        "android_client_info": {
+          "package_name": "com.example.student.footorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219826132275-gi182if9v9qkuhb0b4l8llqr8tu2i7qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student.footorder",
+            "certificate_hash": "fa5a4b33c2757bbfc7c813717c78ab27653cc55a"
+          }
+        },
+        {
+          "client_id": "219826132275-2h4nf8r91v7frc16c140juj8r7n0qlvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_MaCh92MjFEH8FjCZDWtgypojEbyYQZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219826132275-2h4nf8r91v7frc16c140juj8r7n0qlvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
